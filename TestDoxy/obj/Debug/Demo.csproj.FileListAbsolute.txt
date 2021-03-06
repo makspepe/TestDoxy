@@ -1,0 +1,7 @@
+C:\Users\Максим\Desktop\DocumentationGenerator-main\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\Максим\Desktop\DocumentationGenerator-main\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\Максим\Desktop\DocumentationGenerator-main\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\Максим\Desktop\DocumentationGenerator-main\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\DocumentationGenerator-main\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\DocumentationGenerator-main\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\Максим\Desktop\DocumentationGenerator-main\Demo\Demo\obj\Debug\Demo.pdb
